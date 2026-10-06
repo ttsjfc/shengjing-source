@@ -2,15 +2,6 @@
   "wallpaper": "https://www.loliapi.com/acg/",
   "sites": [
     {
-      "key": "cfgver",
-      "name": "✅新版配置已生效",
-      "type": 0,
-      "api": "http://127.0.0.1:9/",
-      "searchable": 0,
-      "filterable": 0,
-      "quickSearch": 0
-    },
-    {
       "key": "非凡",
       "name": "非凡┃影视",
       "type": 1,
